@@ -1,0 +1,7 @@
+CONT ELEV:
+email: elev1@el.ro
+parola: 123456
+
+CONT PROFESOR:
+email: dana@pr.ro
+parola: 654321
